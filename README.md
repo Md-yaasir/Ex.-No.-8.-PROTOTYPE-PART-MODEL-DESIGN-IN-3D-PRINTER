@@ -46,9 +46,13 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![EMPD-1](https://github.com/user-attachments/assets/ed6c334e-5b5a-4096-aa67-f985fe2947c5)
+![WhatsApp Image 2025-04-17 at 16 20 37_419e6798](https://github.com/user-attachments/assets/a05fb1a9-5c36-42ef-9523-0ca27cfae404)
 
-### Name:
-### Register Number:
+
+
+### Name:Y.MOHAMMED YAASIR
+### Register Number: 212224040196
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
